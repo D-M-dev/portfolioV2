@@ -173,14 +173,6 @@ export const projects: Project[] = [
 
 export const videos: VideoItem[] = [
   {
-    title: 'Luix + Knit showcase',
-    description:
-      'Walkthrough of the server-authoritative combat loop, hit registration and ability framework.',
-    source: '/projects/Luix.mp4',
-    type: 'youtube',
-    stack: ['Luau', 'Networking', 'Roblox Studio'],
-    notes:
-      'Luix ability',
   },
 ]
 
