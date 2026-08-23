@@ -172,8 +172,6 @@ export const projects: Project[] = [
 ]
 
 export const videos: VideoItem[] = [
-  {
-  },
 ]
 
 export const skillGroups: SkillGroup[] = [
